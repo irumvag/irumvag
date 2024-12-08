@@ -1,7 +1,7 @@
 -👋 Hi, I’m @irumvag
 - 👀 I’m interested in coding and cybersecurity
   
-  ### Tech Stack
+### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
 
