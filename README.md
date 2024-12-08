@@ -1,9 +1,9 @@
 -👋 Hi, I’m @irumvag
 - 👀 I’m interested in coding and cybersecurity
   
-### Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 - 🌱 I’m currently learning computer engineering
 - 💞️ I’m looking to collaborate on cybersecurity tasks
