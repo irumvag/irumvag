@@ -1,6 +1,5 @@
 - ⛳About me
-- 
--👋 Hi, I’m @irumvag
+- 👋 Hi, I’m @irumvag
 - 👀 I’m interested in coding and cybersecurity
   
 ## Tech Stack
