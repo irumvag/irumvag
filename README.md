@@ -1,6 +1,6 @@
-- ⛳About me
+##⛳About me
 - 👋 Hi, I’m @irumvag
-- 👀 I’m interested in coding and cybersecurity
+- 👀 Currently am Student in University of Rwanda doing Bcs in computer and software engineering in University of Rwanda. I am very passionate about cyber security and software development.
   
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
