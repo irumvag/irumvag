@@ -22,11 +22,6 @@ I’m passionate about cyber defense, systems programming, and continuous learni
   <img src="https://github-readme-stats.vercel.app/api?username=irumvag&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irumvag&theme=radical" alt="GitHub Streak" />
-</p>
-
 <!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irumvag&layout=compact&theme=radical" alt="Top Languages" />
