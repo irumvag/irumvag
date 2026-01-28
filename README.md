@@ -67,14 +67,7 @@ _Tools & platforms_
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
-<!-- contribution graph snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irumvag/irumvag/output/github-snake-dark.svg" />
 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irumvag/irumvag/output/github-snake.svg" />
-
-  <img alt="github-snake" src="https://raw.githubusercontent.com/irumvag/irumvag/output/github-snake.svg" />
-</picture>
 
 
 
