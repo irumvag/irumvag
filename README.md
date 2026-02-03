@@ -37,7 +37,7 @@ _Tools & platforms_
 
 <br />
 
-[![Github](https://img.shields.io/badge/Github-181717?logo=github)](https://github.com/irumvag/) [![Credly](https://img.shields.io/badge/Credly-FF6B00?logo=credly&labelColor=181717)](https://www.credly.com/users/webmaster) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat)](https://www.linkedin.com/in/irumvag/) [![Twitter](https://img.shields.io/badge/Twitter-000?logo=x)](https://x.com/@AnacletGad49960) [![Discord](https://img.shields.io/badge/Dicord-5865F2?logo=discord&labelColor=181717)]() [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&labelColor=181717)](https://t.me/irumvag)
+[![Github](https://img.shields.io/badge/Github-181717?logo=github)](https://github.com/irumvag/) [![Credly](https://img.shields.io/badge/Credly-FF6B00?logo=credly&labelColor=181717)](https://www.credly.com/users/irumva-gad-anaclet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat)](https://www.linkedin.com/in/irumvag/) [![Twitter](https://img.shields.io/badge/Twitter-000?logo=x)](https://x.com/@irumvaga) [![Discord](https://img.shields.io/badge/Dicord-5865F2?logo=discord&labelColor=181717)]() [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&labelColor=181717)](https://t.me/irumvag)
 
 
 <!-- ********===Gh profile summary********=== -->
